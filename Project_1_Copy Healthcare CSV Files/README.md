@@ -92,3 +92,12 @@ After running the pipeline:
 ---
 
 **This POC project helps beginners practice the core capabilities of Azure Data Factory and Azure Data Lake for real-world data workflows. 🚀**
+
+---
+
+## 📌 Author
+**Chanush KR**  
+🔗 [LinkedIn](https://www.linkedin.com/in/chanush-kr)  
+🌐 [Portfolio Website](https://sites.google.com/view/chanushkr/home)  
+
+---
