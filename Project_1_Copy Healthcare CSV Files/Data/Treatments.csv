@@ -1,0 +1,11 @@
+TreatmentID,TreatmentName,BaseCost
+1,Appendectomy,5000
+2,MRI Scan,1500
+3,Physical Therapy,200
+4,Chemotherapy,7000
+5,X-Ray,300
+6,Vaccination,50
+7,Blood Test,100
+8,Dialysis,500
+9,CT Scan,2000
+10,Cardiac Surgery,10000
