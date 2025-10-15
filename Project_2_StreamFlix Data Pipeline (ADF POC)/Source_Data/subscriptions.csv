@@ -1,0 +1,4 @@
+subscription_id,plan_name,monthly_fee,quality
+S01,Basic,7.99,HD
+S02,Standard,10.99,Full HD
+S03,Premium,14.99,4K

@@ -1,0 +1,4 @@
+view_id,user_id,movie_id,view_date,watch_time_min
+V2001,U001,M002,2022-01-05,120
+V2002,U002,M001,2022-03-15,90
+V2003,U004,M004,2022-10-08,105

@@ -1,0 +1,5 @@
+movie_id,title,genre_id,release_year,rating
+M001,The Lost City,G01,2021,4.2
+M002,Code Warriors,G02,2022,4.7
+M003,Silent Storm,G03,2023,4.5
+M004,Ocean Deep,G01,2024,4.8
