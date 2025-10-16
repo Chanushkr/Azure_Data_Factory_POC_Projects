@@ -92,4 +92,4 @@ It follows a structured approach with **layered data storage** (raw → transfor
 
 📦 **Author:** *Chanush KR*  
 📧 **LinkedIn:** *https://www.linkedin.com/in/chanush-kr/*  
-👉 [View Full Project on GitHub]([https://github.com/Chanushkr/Azure_Data_Factory_POC_Projects/tree/main/Project_3_Digital_Marketing_Data_Transformation](https://github.com/Chanushkr/Azure_Data_Factory_POC_Projects/tree/main/Project_3_Digital%20Marketing%20Data%20Transformation%20Pipeline))
+👉 [View Full Project on GitHub]([https://github.com/Chanushkr/Azure_Data_Factory_POC_Projects/tree/main/Project_3_Digital_Marketing_Data_Transformation](https://github.com/Chanushkr/Azure_Data_Factory_POC_Projects/tree/main/Project_3_Digital%20Marketing%20Data%20Transformation%20Pipeline)
